@@ -75,7 +75,7 @@ Results-driven **Python Developer and Data Engineer with 4+ years of experience*
 ---
 
 ### **Project Associate** | DataRitz Technologies
-**2020 – 2020 | Contract Role**
+**2020 – 2020 | Internship Role**
 
 - Developed backend APIs for the **Output Based Education System (OBES)** using Django REST Framework
 - Designed and implemented RESTful endpoints for academic data management and NCAA-compliant reporting
@@ -85,7 +85,7 @@ Results-driven **Python Developer and Data Engineer with 4+ years of experience*
 ---
 
 ### **Intern** | AssetPlus Consulting
-**2021 | Contract Role**
+**2021 | Internship Role**
 
 - Executed ETL operations on enterprise datasets using Pandas, NumPy, and SQL
 - Built Django web applications with Chart.js for financial analytics and defaulter analysis
