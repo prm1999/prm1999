@@ -1,6 +1,6 @@
 # Mourya Pradeep Ramashare
 
-**Senior Python Developer | Backend Engineer | Data Engineer | ETL Specialist**
+**Python Developer | Backend Engineer | Data Engineer | ETL Specialist**
 
 📧 mouryapradeepramashare11@gmail.com  
 🔗 [GitHub](https://github.com/prm1999) | [Portfolio](https://mouryap-d9c05.web.app)  
@@ -125,7 +125,7 @@ ABES Engineering College, Ghaziabad (2018 – 2022)
 
 ## Professional Goals
 
-Seeking **Senior Python Developer**, **Backend Engineer**, **Data Engineer**, or **ETL Architect** roles in organizations focused on building scalable, maintainable systems. Committed to continuous learning, mentoring junior developers, and contributing to high-impact projects in fintech, data analytics, or enterprise software.
+Seeking **Python Developer**, **Backend Engineer**, **Data Engineer**, or **ETL Architect** roles in organizations focused on building scalable, maintainable systems. Committed to continuous learning, mentoring junior developers, and contributing to high-impact projects in fintech, data analytics, or enterprise software.
 
 ---
 
