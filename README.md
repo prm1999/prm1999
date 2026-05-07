@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Results-driven **Senior Python Developer and Data Engineer with 4+ years of experience** designing, architecting, and delivering **scalable backend systems, enterprise-grade ETL pipelines, and high-performance data solutions**. Proven expertise in **Python-based backend development**, **ETL modernization**, and **data pipeline engineering** with a strong track record of improving system reliability, reducing operational costs, and accelerating time-to-market.
+Results-driven **Python Developer and Data Engineer with 4+ years of experience** designing, architecting, and delivering **scalable backend systems, enterprise-grade ETL pipelines, and high-performance data solutions**. Proven expertise in **Python-based backend development**, **ETL modernization**, and **data pipeline engineering** with a strong track record of improving system reliability, reducing operational costs, and accelerating time-to-market.
 
 **Key Strengths:**
 - Legacy system modernization and cloud-ready architecture
